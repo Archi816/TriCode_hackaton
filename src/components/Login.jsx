@@ -36,7 +36,7 @@ function Login()
                 <input type="email" placeholder="Enter your email"/>
                 <input type="text" placeholder="Enter first name"/>
                 <input type="text" placeholder="Enter last name"/>
-                <input type="number" placeholder="Enter your age"/>
+                <input type="date" placeholder="Enter your birth date"/>
                 <input type="password"placeholder="Enter your password"></input>
                 <button className="pushLogin">Register</button>
             </div>
