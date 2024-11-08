@@ -43,7 +43,6 @@
 }
 .loginForm
 {
-    display: none;
     flex-direction: column;
     height: 50%;
     justify-content: space-around;
@@ -51,7 +50,6 @@
 }
 .loginForm input
 {
-    border: none;
     border-radius: 10px;
     font-size: 1.5rem;
     width: 80%;
@@ -64,4 +62,9 @@
     color: black;
     background-color: azure;
     border-radius: 25px;
+}
+.error {
+    color: red;
+    font-size: 0.9rem;
+    margin-top: 5px;
 }
