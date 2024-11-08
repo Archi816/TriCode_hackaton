@@ -1,4 +1,10 @@
 
+h1{
+    font-size: 60px;
+    text-wrap: nowrap;
+}
+
+
 .custome-underline {
     position: relative;
     padding-bottom: 10px;

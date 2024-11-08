@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import Login from './components/Login'
+import Title from './components/Title'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -8,8 +9,7 @@ function App() {
 
   return (
     <>
-    <h1 className='title greeting_title'>Welcome to the Future View</h1>
-    <p className='text greeting_text'>Future you in your hands</p>
+      <Title />
       <Login />
     </>
   )
