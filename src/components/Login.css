@@ -1,6 +1,8 @@
 .container
 {
     width: 30vw;
+    align-items: center;
+    justify-content: center;
     height: 70vh;
     background-color: hsl(0, 0%, 0%, 0.1);
     border-radius: 3%;
