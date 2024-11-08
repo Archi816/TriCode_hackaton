@@ -21,6 +21,7 @@ function Login()
     }*/
 
     return(<>
+    <div className="center">
         <div className="container">
             <div className="buttons">
                 <button className="loginBtn logBtn"/* onClick={setLogin}*/>Login</button>
@@ -40,6 +41,7 @@ function Login()
                 <button className="pushLogin">Register</button>
             </div>
         </div>
+    </div>
     </>);
 }
 

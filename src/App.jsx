@@ -9,6 +9,7 @@ function App() {
 
   return (
     <>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Neque harum iusto distinctio, eius error quasi animi exercitationem nihil cupiditate cumque? Optio adipisci illo quasi possimus dignissimos voluptates quibusdam nemo porro?</p>
       <Login />
     </>
   )
