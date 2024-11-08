@@ -27,11 +27,23 @@
 }
 .regForm
 {
-    display: none;
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    justify-content: space-around;
+    align-items: center;
+}
+.regForm input
+{
+    border: none;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    width: 80%;
+    height: 20%;
 }
 .loginForm
 {
-    display: flex;
+    display: none;
     flex-direction: column;
     height: 50%;
     justify-content: space-around;
