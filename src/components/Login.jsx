@@ -29,7 +29,6 @@ function Login()
             <div className="loginForm">
                 <input type="email" placeholder="Enter your email"/>
                 <input type="password"placeholder="Enter your password"></input>
-                <button className="pushLogin">Login</button>
             </div>
             <div className="regForm" /*style={setLogin ? 'none' : 'block'}*/>
                 <input type="email" placeholder="Enter your email"/>
