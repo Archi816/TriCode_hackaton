@@ -1,7 +1,7 @@
 import "../aditional_css/Chat.css";
 import pic from "../assets/send.svg"
 import mic from "../assets/mic.png"
-import Message from "./Message";
+import Message from "./MessageAva";
 
 function Chat()
 {
