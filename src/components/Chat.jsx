@@ -8,7 +8,7 @@ function Chat()
     return(<>
         <div className="containerChat">
             <div className="bodyChat">
-                <Message text="bebebe test"/>
+                <Message text="bebebe test mor more "/>
             </div>
             <div className="inputMess">
                 <button><img src={mic}/></button>
