@@ -1,0 +1,19 @@
+.messageBody
+{
+    width: 100%;
+    min-height: 10%;
+}
+.messText
+{
+    min-width: 20%;
+    max-width: 80%;
+    background-color: hsl(0, 0%, 13%);
+    min-height: 50px;
+    margin: 3px;
+    border-radius: 10px;
+}
+h2
+{
+    margin: 0;
+    font-size: 1em;
+}
